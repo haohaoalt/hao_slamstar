@@ -1,3 +1,0 @@
-/home/hao007/github/hao_slamstar/03HW/todo/build/CMakeFiles/rebuild_cache.dir
-/home/hao007/github/hao_slamstar/03HW/todo/build/CMakeFiles/edit_cache.dir
-/home/hao007/github/hao_slamstar/03HW/todo/build/CMakeFiles/cppNewFeather.dir

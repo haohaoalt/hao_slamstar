@@ -3,7 +3,8 @@ project( homography )
 
 set( CMAKE_CXX_FLAGS "-std=c++11" )
 
-find_package( OpenCV REQUIRED )
+find_package( OpenCV 3 REQUIRED )
+message(STATUS "Opencv Version: ${OpenCV_VERSION}")
 
 include_directories( ${OpenCV_INCLUDE_DIRS} )
 
